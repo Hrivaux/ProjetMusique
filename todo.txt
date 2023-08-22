@@ -1,0 +1,13 @@
+Se renseigner sur les API deezer, spotify puis apple music.
+
+Vérifier si on peut récupérer les playlists 
+
+Vérifier si on peut récupérer les données telles que les titres, les artistes, les albums (pour ensuite les stocker en variables pour permettre de les comparer)
+
+Faire ressortir les musiques soit en réutilisant un lecteur intégré (lecteur deezer ou spotify?) / création AUTOMATIQUE d'une playlist sur les 2 comptes avec les MATCH de musique 
+
+
+
+Fun:
+Créer des calculs → 
+  Idée 1: Calcul de pourcentage de match en fonction des titres, albums, auteurs...
